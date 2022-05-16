@@ -23,3 +23,6 @@ Plant store, where customers can buy a varierty of inddor and outdoor plants
 
 ### Stretch Goals
 * Mock Admin login
+
+### Events
+Overall: I want to click the plants link and render the plants list to the page.
