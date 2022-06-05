@@ -1,0 +1,36 @@
+{
+    "plants": [
+        { 
+            "id": 0,
+            "name":"Pothos",
+            "description": "Not only will this plant's marble-patterned, heart-shaped leaves charm you for years to come, but she's the perfect beginner plant; hard to kill and easy to grow.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-marble-queen-black-pot_1080x.jpg?v=1649198093",
+            "price": 25.00
+    
+        },
+        { 
+            "id": 1,
+            "name":"ZZ Plant",
+            "description": "The ZZ is everything you'd want in a beginner plant. Stunning + impossible to kill + air-purifying = houseplant perfection.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/small-plant-ZZ-white2-pot_1080x.jpg?v=1641483441",
+            "price": 20.00
+        },
+        { 
+            "id": 2,
+            "name":"Rubber Tree",
+            "description": "The OG of houseplants, this dark and timeless beauty will be a staple in your home for years to come. Set her near a window in indirect light and watch her shine.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/medium-plant-ficus-black-pot_1080x.jpg?v=1649450339",
+            "price": 30.00
+    
+        },
+        { 
+            "id": 3,
+            "name":"Peperomia",
+            "description": "Not one for direct sunlight, this chick likes to play it cool in the background. She doesn't need much to keep her signature verdant leaves looking glossy, thick, and vibrant.",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0260/3037/4957/products/medium-plant-peperomia-seafoam-pot_1080x.jpg?v=1649193126",
+            "price": 78.00
+    
+        }
+
+    ]
+}
