@@ -16,9 +16,9 @@ The "Check Out" button will direct the user to the check out section that is cur
 ### How to install / use
 
 
--Fork and clone github link
--Run json server for db.json
--open index.html in the browser
+* Fork and clone github link
+* Run json server for db.json
+* open index.html in the browser
 
 
 ## Credits
